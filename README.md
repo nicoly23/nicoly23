@@ -1,6 +1,6 @@
 ### Bem vindo ao perfil <33
 
-O meu nome é nicoly.
+O meu nome é nicoly
 
 Estou estudando no Alura;
 
